@@ -1,1 +1,1 @@
-# Oscars_2024_SQL_Project
+# Oscars 2024 Project
