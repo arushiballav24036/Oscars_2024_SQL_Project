@@ -9,3 +9,4 @@ The challenge revolved around three key tables within the database. They are
 # Software Used
 • MySQL for query building and Analysis
 • Power Point for Presentation
+# Key Insights of this Project
